@@ -12,7 +12,7 @@
 </html>
 
 
-| Name          | Difficulty Level | Remarks |
+| Name          | Difficulty Level | Code    |
 | ------------- | ---------------- |---------|
-| ASCII Kassi   |  1.4 - 1.5       |         |
+| ASCII Kassi   |  1.4 - 1.5       |[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/ASCII%20Kassi) |
 |               |                  |         |

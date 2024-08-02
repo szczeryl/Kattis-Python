@@ -27,5 +27,14 @@
 |[Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans)|1.5|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Apaxiaaaaaaaaaaaans!)|
 |[Autori](https://open.kattis.com/problems/autori)|1.2|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Autori)|
 |[Avion](https://open.kattis.com/problems/avion)|1.5|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Avion)|
+|[Barcelona](https://open.kattis.com/problems/barcelona)|1.2 - 1.3|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Barcelona)|
+|[Batter Up](https://open.kattis.com/problems/batterup)| 1.4|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Batter%20Up)|
+|[BergMál](https://open.kattis.com/problems/bergmal)| 1.1 - 1.2|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/BergM%C3%A1l)|
+|[Betting](https://open.kattis.com/problems/betting)| 1.3|[Python 3](https://open.kattis.com/problems/betting)|
+|[Bijele](https://open.kattis.com/problems/bijele)|1.3|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Bijele)|
+|[Bitte ein Bit](https://open.kattis.com/problems/bitteeinbit)|1.3|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Bitte%20ein%20Bit)|
+|[Blandað Best](https://open.kattis.com/problems/blandadbest)|1.2|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Blanda%C3%B0%20Best)|
+|[Blaðra](https://open.kattis.com/problems/bladra2)|1.2|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Bla%C3%B0ra)|
+|[Buka](https://open.kattis.com/problems/buka)|2.0|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Buka)|
 |               |                  |         |
 

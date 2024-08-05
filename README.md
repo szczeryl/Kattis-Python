@@ -14,7 +14,7 @@
 )
 | Name          | Difficulty Level | Code    |
 | ------------- | ---------------- |---------|
-|[99 Problems](https://open.kattis.com/problems/99problems)|2.9|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/99%20Problems)|
+|[99 Problems](https://open.kattis.com/problems/99problems)|2.9|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/99%20Problems.py)|
 |[A Different Problem](https://open.kattis.com/problems/different)|2.8|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/A%20Different%20Problem)|
 |[A New Alphabet](https://open.kattis.com/problems/anewalphabet)| 2.4            |[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/A%20New%20Alphabet)|
 |[A Real Challenge](https://open.kattis.com/problems/areal) | 2.2 |[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/A%20Real%20Challenge)|

@@ -66,5 +66,12 @@
 |[GCVWR](https://open.kattis.com/problems/gcvwr)|1.4|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/GCVWR.py)|
 |[Grass Seed Inc.](https://open.kattis.com/problems/grassseed)|1.4|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Grass%20Seed%20Inc.py)|
 |[Greetings!](https://open.kattis.com/problems/greetings2)|1.4|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Greetings.py)|
+|[Hello World!](https://open.kattis.com/problems/hello)|1.1|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Hello%20World!.py)|
+|[Hipp Hipp](https://open.kattis.com/problems/hipphipp)|1.1|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Hipp%20Hipp.py)|
+|[Hipp Hipp Húrra](https://open.kattis.com/problems/hipphipphurra)|1.2|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Hipp%20Hipp%20H%C3%BArra.py)|
+|[Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)|1.3|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Hissing%20Microphone.py)|
+|[Homework](https://open.kattis.com/problems/heimavinna)|1.0-1.5|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Homework.py)|
+|[Hraðgreining](https://open.kattis.com/problems/hradgreining)|1.1 - 1.2|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Hra%C3%B0greining.py)|
+
 |               |                  |         |
 

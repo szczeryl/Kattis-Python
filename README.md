@@ -67,6 +67,7 @@
 |[Grass Seed Inc.](https://open.kattis.com/problems/grassseed)|1.4|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Grass%20Seed%20Inc.py)|
 |[Greetings!](https://open.kattis.com/problems/greetings2)|1.4|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Greetings.py)|
 |[Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout)|1.5|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Hanging%20Out%20on%20the%20Terrace.py)|
+|[Heart Rate](https://open.kattis.com/problems/heartrate)|1.5|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Heart%20Rate.py)|
 |[Hello World!](https://open.kattis.com/problems/hello)|1.1|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Hello%20World!.py)|
 |[Hipp Hipp](https://open.kattis.com/problems/hipphipp)|1.1|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Hipp%20Hipp.py)|
 |[Hipp Hipp Húrra](https://open.kattis.com/problems/hipphipphurra)|1.2|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Hipp%20Hipp%20H%C3%BArra.py)|

@@ -51,7 +51,20 @@
 |[Dice Cup](https://open.kattis.com/problems/dicecup)|1.4|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Dice%20Cup.py)|
 |[Digit Swap](https://open.kattis.com/problems/digitswap)|1.2|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Digit%20Swap.py)|
 |[Draga Frá](https://open.kattis.com/problems/dragafra)|1.1|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Draga%20Fr%C3%A1.py)|
-
-
+|[Echo Echo Echo](https://open.kattis.com/problems/echoechoecho)|1.2|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Echo%20Echo%20Echo.py)|
+|[Ekki dauði opna inni](https://open.kattis.com/problems/ekkidaudi)|1.4 - 1.5|[Python 3](https://github.com/szczeryl/KattisPython/blob/main/src/Ekki%20dau%C3%B0i%20opna%20inni.py)|
+|[Eye of Sauron](https://open.kattis.com/problems/eyeofsauron)| 1.4|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Eye%20of%20Sauron.py)|
+|[FYI](https://open.kattis.com/problems/fyi)|1.3|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/FYI.py)|
+|[Faktor](https://open.kattis.com/problems/faktor)|1.4|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Faktor.py)|
+|[Filip](https://open.kattis.com/problems/filip)|1.5|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Filip.py)|
+|[Fimmtudagstilboð](https://open.kattis.com/problems/fimmtudagstilbod)|1.2 - 1.5|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Fimmtudagstilbo%C3%B0.py)|
+|[Finding an A](https://open.kattis.com/problems/findingana)|1.3|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Finding%20an%20A.py)|
+|[FizzBuzz](https://open.kattis.com/problems/fizzbuzz)|1.4|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/FizzBuzz.py)|
+|[Flatbökuveisla](https://open.kattis.com/problems/flatbokuveisla)|1.1|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Flatb%C3%B6kuveisla.py)|
+|[Flýtibaka](https://open.kattis.com/problems/flytibaka)|1.1|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Fl%C3%BDtibaka.py)|
+|[Framtíðar FIFA](https://open.kattis.com/problems/fifa)|1.1-1.2|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Framt%C3%AD%C3%B0ar%20FIFA.py)|
+|[GCVWR](https://open.kattis.com/problems/gcvwr)|1.4|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/GCVWR.py)|
+|[Grass Seed Inc.](https://open.kattis.com/problems/grassseed)|1.4|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Grass%20Seed%20Inc.py)|
+|[Greetings!](https://open.kattis.com/problems/greetings2)|1.4|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Greetings.py)|
 |               |                  |         |
 

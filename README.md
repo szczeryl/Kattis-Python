@@ -45,8 +45,12 @@
 |[Count the Vowels](https://open.kattis.com/problems/countthevowels)|1.3|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Count%20the%20Vowels.py)|
 |[Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum)|1.5|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Cryptographer's%20Conundrum.py)|
 |[D Fyrir Dreki](https://open.kattis.com/problems/dfyrirdreki)|1.3 - 1.5|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/D%20Fyrir%20Dreki.py)|
-
-
+|[Death Knight Hero](https://open.kattis.com/problems/deathknight)|1.5|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Death%20Knight%20Hero.py)|
+|[Decimal Deletion](https://open.kattis.com/problems/decimaldeletion)|1.4|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Decimal%20Deletion.py)|
+|[Detailed Differences](https://open.kattis.com/problems/detaileddifferences)|1.4|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Detailed%20Differences.py)|
+|[Dice Cup](https://open.kattis.com/problems/dicecup)|1.4|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Dice%20Cup.py)|
+|[Digit Swap](https://open.kattis.com/problems/digitswap)|1.2|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Digit%20Swap.py)|
+|[Draga Frá](https://open.kattis.com/problems/dragafra)|1.1|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Draga%20Fr%C3%A1.py)|
 
 
 |               |                  |         |

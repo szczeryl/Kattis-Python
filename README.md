@@ -63,6 +63,7 @@
 |[Flatbökuveisla](https://open.kattis.com/problems/flatbokuveisla)|1.1|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Flatb%C3%B6kuveisla.py)|
 |[Flýtibaka](https://open.kattis.com/problems/flytibaka)|1.1|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Fl%C3%BDtibaka.py)|
 |[Framtíðar FIFA](https://open.kattis.com/problems/fifa)|1.1-1.2|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Framt%C3%AD%C3%B0ar%20FIFA.py)|
+|[Fyrirtækjanafn](https://open.kattis.com/problems/fyrirtaekjanafn)|1.4 - 1.9|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Fyrirt%C3%A6kjanafn.py)|
 |[GCVWR](https://open.kattis.com/problems/gcvwr)|1.4|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/GCVWR.py)|
 |[Grass Seed Inc.](https://open.kattis.com/problems/grassseed)|1.4|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Grass%20Seed%20Inc.py)|
 |[Greetings!](https://open.kattis.com/problems/greetings2)|1.4|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Greetings.py)|

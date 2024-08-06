@@ -11,7 +11,7 @@
   </body>
 </html>
 
-)
+
 | Name          | Difficulty Level | Code    |
 | ------------- | ---------------- |---------|
 |[99 Problems](https://open.kattis.com/problems/99problems)|2.9|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/99%20Problems.py)|
@@ -36,5 +36,18 @@
 |[Blandað Best](https://open.kattis.com/problems/blandadbest)|1.2|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Blanda%C3%B0%20Best.py)|
 |[Blaðra](https://open.kattis.com/problems/bladra2)|1.2|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Bla%C3%B0ra.py)|
 |[Buka](https://open.kattis.com/problems/buka)|2.0|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Buka.py)|
+|[Canadians, eh?](https://open.kattis.com/problems/canadianseh)|1.6|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Canadians%2C%20eh%3F.py)|
+|[Cetvrta](https://open.kattis.com/problems/cetvrta)|1.4|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Cetvrta.py)|
+|[Champernowne Verification](https://open.kattis.com/problems/champernowneverification)|1.5|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Champernowne%20Verification.py)|
+|[Chanukah Challenge](https://open.kattis.com/problems/chanukah)|1.3|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Chanukah%20Challenge.py)|
+|[Cold-puter Science](https://open.kattis.com/problems/cold)|1.4|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Cold-puter%20Science.py)|
+|[Cosmic Path Optimization](https://open.kattis.com/problems/cosmicpathoptimization)|1.3|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Cosmic%20Path%20Optimization.py)|
+|[Count the Vowels](https://open.kattis.com/problems/countthevowels)|1.3|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Count%20the%20Vowels.py)|
+|[Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum)|1.5|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Cryptographer's%20Conundrum.py)|
+|[D Fyrir Dreki](https://open.kattis.com/problems/dfyrirdreki)|1.3 - 1.5|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/D%20Fyrir%20Dreki.py)|
+
+
+
+
 |               |                  |         |
 

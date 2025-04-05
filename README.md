@@ -75,6 +75,6 @@
 |[Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)|1.3|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Hissing%20Microphone.py)|
 |[Homework](https://open.kattis.com/problems/heimavinna)|1.0-1.5|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Homework.py)|
 |[Hraðgreining](https://open.kattis.com/problems/hradgreining)|1.1 - 1.2|[Python 3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Hra%C3%B0greining.py)|
-|               |                  |         |
+|[Job Expenses](https://open.kattis.com/problems/jobexpenses)|1.4|[Python3](https://github.com/szczeryl/Kattis-Python/blob/main/src/Job%20Expenses.py)|
 |               |                  |         |
 
